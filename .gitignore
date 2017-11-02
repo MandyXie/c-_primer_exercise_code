@@ -1,2 +1,4 @@
 .idea/
 cmake-build-debug/
+bin/Exercise_*
+build/
